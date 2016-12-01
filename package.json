@@ -9,6 +9,7 @@
     "node": "7.0.0",
     "npm": "4.0.3"
   },
+  "start": "node server.js",
   "dependencies": {
     "bash-color": "0.0.4",
     "cheerio": "0.20.0",
@@ -22,6 +23,7 @@
     "error": "7.0.2",
     "escape-html": "^1.0.3",
     "escape-string-regexp": "1.0.5",
+    "express": "^4.14.0",
     "extend": "^3.0.0",
     "fresh-require": "1.0.3",
     "front-matter": "^2.1.0",
